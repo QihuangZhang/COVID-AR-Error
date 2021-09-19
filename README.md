@@ -8,10 +8,6 @@ by [Qihuang Zhang](https://qihuangzhang.com) and [Grace Y. Yi](https://www.uwo.c
 
 
 ## File Structure
-* [Naive Method](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation0.R)
-* [Section 6.1： Simulation 1](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation1.R)
-* [Section 6.2： Simulation 2](https://github.com/QihuangZhang/ZeroInf/blob/master/code//Simulation/Simulation2.R)
-* Section 6.3： Simulation 3
-  * [Proposed Method](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation3.R)
-  * [External Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation4.R): X_i is not available but W_i is available in validation data
-  * [Internal Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation5.R): Both X_i and W_i is available in validation data
+* [Data Analysis for Definition 1](https://github.com/QihuangZhang/COVID-AR-Error/blob/main/code/COVID_Canada_Def1.R)
+* [Data Analysis for Definition 2](https://github.com/QihuangZhang/COVID-AR-Error/blob/main/code/COVID_Canada_Def2.R)
+* [Data Analysis for Definition 3](https://github.com/QihuangZhang/COVID-AR-Error/blob/main/code/COVID_Canada_Def3.R)
